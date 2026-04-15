@@ -1,0 +1,32 @@
+# motoinstructor.com.ua
+
+> Курси водіння мотоцикла
+
+## Pages
+- [Home](https://motoinstructor.com.ua/index.md): Ви отримаєте практичні навички управління мотоциклом. Виїзд в місто після отримання посвідчення категорії А.
+- [Контакти](https://motoinstructor.com.ua/contact/index.md): Контакти да адреса мотошколи
+- [Привіт, я ваш мотоінструктор](https://motoinstructor.com.ua/about/index.md): this is meta description
+
+## Blog Posts
+- [Blog Posts](https://motoinstructor.com.ua/kursy/index.md): this is meta description
+
+- [Заняття на власному мотоциклі](https://motoinstructor.com.ua/kursy/own-bike/index.md): Опануйте свій байк на 100%! Курс водіння на власному мотоциклі в Києві: габарити, маневрування, робота зі зчепленням та елементи джимхани. Станьте впевненим райдером за кілька занять.
+- [Перший виїзд у місто — від страху до впевненого контролю](https://motoinstructor.com.ua/kursy/city-ride/index.md): Навчіться впевнено їздити в трафіку Києва. Курс адаптації до міста: розв'язки, міжряддя, безпечні траєкторії та супровід інструктора через гарнітуру.
+- [Підготовка до іспиту в сервісному центрі МВС](https://motoinstructor.com.ua/kursy/exam-prep/index.md): Пройдіть курс підготовки до іспиту в сервісному центрі з мотоінструктором у Києві. Відпрацювання вісімки, змійки та всіх офіційних вправ. Психологічна адаптація.
+
+## Pages
+- [Pages](https://motoinstructor.com.ua/pages/index.md)
+
+- [Політика конфіденційності](https://motoinstructor.com.ua/privacy-policy/index.md): Політика конфіденційності
+
+## Categories
+- [Categories]()
+- [Data](https://motoinstructor.com.ua/categories/data/index.md)
+- [Software](https://motoinstructor.com.ua/categories/software/index.md)
+- [Technology](https://motoinstructor.com.ua/categories/technology/index.md)
+
+## Tags
+- [Tags]()
+- [Software](https://motoinstructor.com.ua/tags/software/index.md)
+- [Tailwind](https://motoinstructor.com.ua/tags/tailwind/index.md)
+- [Technology](https://motoinstructor.com.ua/tags/technology/index.md)
