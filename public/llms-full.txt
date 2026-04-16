@@ -32,11 +32,11 @@ description: this is meta description
 {{< youtube QPtxA-ymFeA >}}
 
 --------------------------------------------------------------------------------
-title: "Blog Posts"
+title: "Курси мотошколи"
 url: /kursy/index.md
-description: this is meta description
+description: Курси мотошколи
 --------------------------------------------------------------------------------
-this is meta description
+Курси мотошколи
 
 --------------------------------------------------------------------------------
 title: "Заняття на власному мотоциклі"

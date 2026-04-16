@@ -1,5 +1,5 @@
-# Blog Posts
+# Курси мотошколи
 
-> this is meta description
+> Курси мотошколи
 
-this is meta description
+Курси мотошколи
