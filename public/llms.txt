@@ -19,6 +19,11 @@
 
 - [Політика конфіденційності](/privacy-policy/index.md): Політика конфіденційності
 
+## Sections
+- [Sections](/sections/index.md)
+
+- [Поради початківцю](/sections/education/index.md)
+
 ## Categories
 - [Categories]()
 - [Data](/categories/data/index.md)
