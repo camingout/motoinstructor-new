@@ -31,6 +31,9 @@ description: this is meta description
 
 {{< youtube QPtxA-ymFeA >}}
 
+
+
+
 --------------------------------------------------------------------------------
 title: "Курси мотошколи"
 url: /kursy/index.md
