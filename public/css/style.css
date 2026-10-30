@@ -569,6 +569,9 @@
   .h-6 {
     height: calc(var(--spacing) * 6);
   }
+  .max-h-\[80vh\] {
+    max-height: 80vh;
+  }
   .min-h-screen {
     min-height: 100vh;
   }
@@ -622,6 +625,9 @@
   }
   .max-w-\[600px\] {
     max-width: 600px;
+  }
+  .max-w-full {
+    max-width: 100%;
   }
   .grow {
     flex-grow: 1;
