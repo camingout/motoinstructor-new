@@ -42,6 +42,10 @@ date: 2022-04-04
 ### Симуляція реального іспиту та розбір помилок
 Проводимо повну симуляцію екзаменаційного процесу. Інструктор фіксує всі похибки, після чого робиться детальний розбір, щоб виключити їх повторення на реальній здачі в СЦ.
 
+{{< video src="/images/video/8041_how-to.mp4" width="100%" height="auto" autoplay="false" loop="false" muted="false" controls="true" class="rounded-lg" >}}
+
+{{< video src="/images/video/8041_trek.mp4" width="100%" height="auto" autoplay="false" loop="false" muted="false" controls="true" class="rounded-lg" >}}
+
 ---
 
 ## Локації та мотоцикли для тренувань у Києві
